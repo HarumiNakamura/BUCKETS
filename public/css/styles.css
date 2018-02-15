@@ -1,0 +1,13 @@
+body {
+
+  font-family: YuGothic;
+}
+
+a {
+  cursor: pointer;
+}
+
+#profile-img
+{
+  margin-bottom: 20px;
+}
